@@ -14,3 +14,23 @@ The project was tested on the following devices:
 
 | ESP32 | Raspberry Pi 3 |
 | ----- | -------------- |
+
+## Developers
+
+Claudinei de Oliveira
+
+![Claudinei de Oliveira](readme_img/claudinei.jpg "Claudinei de Oliveira")
+
+[GitHub](https://github.com/cldnei)
+
+Guilherme Parcerão
+
+![Guilherme Parcerão](readme_img/guilherme.jpg "Guilherme Parcerão")
+
+[GitHub](https://github.com/gmrparcerao) | [LinkedIn](https://www.linkedin.com/in/guilherme-parcerao/)
+
+Renan Bernardo
+
+![Renan Bernardo](readme_img/renan.jpg "Renan Bernardo")
+
+[GitHub](https://github.com/b3rnardo) | [LinkedIn](https://www.linkedin.com/in/b3rnardo/)
